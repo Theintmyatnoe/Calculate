@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Calculate</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="balance">Balance</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mar_2">2dp</dimen>
+    <dimen name="mar_4">4dp</dimen>
+    <dimen name="mar_8">8dp</dimen>
+    <dimen name="mar_10">10dp</dimen>
+    <dimen name="mar_12">12dp</dimen>
+    <dimen name="mar_14">14dp</dimen>
+    <dimen name="mar_16">16dp</dimen>
+    <dimen name="mar_18">18dp</dimen>
+    <dimen name="mar_20">20dp</dimen>
+    <dimen name="mar_22">22dp</dimen>
+    <dimen name="mar_24">24dp</dimen>
+
+    <dimen name="txt_12">12sp</dimen>
+    <dimen name="txt_14">14sp</dimen>
+    <dimen name="txt_16">16sp</dimen>
+    <dimen name="txt_18">18sp</dimen>
+    <dimen name="txt_20">20sp</dimen>
+    <dimen name="txt_22">22sp</dimen>
+    <dimen name="txt_24">24sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="text_regular_18">16dp</dimen>
+</resources>
